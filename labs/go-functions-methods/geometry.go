@@ -34,7 +34,7 @@ func Distance(p, q Point) float64 {
 
 // same thing, but as a method of the Point type
 func (p Point) Distance(q Point) float64 {
-	return math.Round(math.Hypot(q.x-p.x, q.y-p.y)*100) / 100
+	return math.Hypot(q.x-p.x, q.y-p.y)
 }
 
 //!-point
