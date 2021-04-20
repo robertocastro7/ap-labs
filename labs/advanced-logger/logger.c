@@ -3,7 +3,6 @@
 #include <stdarg.h>
 #include <string.h>
 #include <syslog.h>
-#include <time.h>
 #include "logger.h"
 
 #define RESET		0
