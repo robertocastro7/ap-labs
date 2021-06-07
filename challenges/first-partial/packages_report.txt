@@ -1,0 +1,14 @@
+Pacman Packages Report
+----------------------
+- Installed packages : 574
+- Removed packages   : 60
+- Upgraded packages  : 606
+- Current installed  : 514
+----------------
+
+
+General Stats
+----------------
+- Oldest package   : linux-api-headers
+- Newest package   : brotli
+- Package with no upgrades   : 
